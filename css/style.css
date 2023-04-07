@@ -68,18 +68,15 @@ description img{
 
 
 p {
-  max-width: 800px;
+  max-width:680px;
 
 }
 
-img-link {
-   text-decoration: none;
-   border: 0 !important;
-}
-main a {color: #ff4500; text-decoration: none; border-bottom: 1px dashed;}
-main a:hover { color: #ff4500; text-decoration:none; border-bottom:1px solid;} 
+img {
+  max-width:80%;
 
-a img { outline: none; border: none; }
+}
+
 
 
 li {
